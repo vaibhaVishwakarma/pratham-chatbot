@@ -1,0 +1,7018 @@
+[
+  {
+    "fund_name": "HDFC Balanced Advantage Fund",
+    "inception_date": "1994-02-01 00:00:00",
+    "expense_ratio": 0.0137,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Hybrid Equity Fund",
+    "inception_date": "2000-09-01 00:00:00",
+    "expense_ratio": 0.0169,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Equity Savings Fund",
+    "inception_date": "2004-09-01 00:00:00",
+    "expense_ratio": 0.0139,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Arbitrage Fund",
+    "inception_date": "2007-10-01 00:00:00",
+    "expense_ratio": 0.0099,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Hybrid Debt Fund",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 0.0173,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Regular Savings Fund",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 0.0126,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Flexi Cap Fund",
+    "inception_date": "1995-01-01 00:00:00",
+    "expense_ratio": 0.0143,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Multi Cap Fund",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.017,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Large Cap Fund",
+    "inception_date": "1996-10-01 00:00:00",
+    "expense_ratio": 0.0163,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Mid-Cap Opportunities Fund",
+    "inception_date": "2007-06-01 00:00:00",
+    "expense_ratio": 0.0142,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Small Cap Fund",
+    "inception_date": "2008-04-01 00:00:00",
+    "expense_ratio": 0.016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Large and Mid Cap Fund",
+    "inception_date": "1994-02-01 00:00:00",
+    "expense_ratio": 0.0168,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Capital Builder Value Fund",
+    "inception_date": "1994-02-01 00:00:00",
+    "expense_ratio": 0.0186,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Dividend Yield Fund",
+    "inception_date": "2020-12-01 00:00:00",
+    "expense_ratio": 0.184,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Focused 30 Fund",
+    "inception_date": "2004-09-01 00:00:00",
+    "expense_ratio": 0.0168,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Business Cycle Fund",
+    "inception_date": "2022-11-01 00:00:00",
+    "expense_ratio": 0.0199,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Transportation and Logistics Fund",
+    "inception_date": "2023-08-01 00:00:00",
+    "expense_ratio": 0.0215,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Defence Fund",
+    "inception_date": "2023-06-01 00:00:00",
+    "expense_ratio": 0.0186,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Banking & Financial Services Fund",
+    "inception_date": "2021-07-01 00:00:00",
+    "expense_ratio": 0.0194,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Technology Fund",
+    "inception_date": "2023-09-01 00:00:00",
+    "expense_ratio": 0.0213,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Pharma and Healthcare Fund",
+    "inception_date": "2023-10-01 00:00:00",
+    "expense_ratio": 0.021,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Housing Opportunities Fund",
+    "inception_date": "2017-12-01 00:00:00",
+    "expense_ratio": 0.0224,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Infrastructure Fund",
+    "inception_date": "2008-03-01 00:00:00",
+    "expense_ratio": 0.0211,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC MNC Fund",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.0234,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Non-Cyclical Consumer Fund",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 0.0223,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Manufacturing Fund",
+    "inception_date": "2024-05-16 00:00:00",
+    "expense_ratio": 0.0171,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Asset Allocator Fund of Funds",
+    "inception_date": "2021-05-01 00:00:00",
+    "expense_ratio": 0.0113,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Dynamic PE Ratio Fund of Funds",
+    "inception_date": "2012-02-01 00:00:00",
+    "expense_ratio": 0.01,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Overnight Fund",
+    "inception_date": "2002-02-01 00:00:00",
+    "expense_ratio": 0.0017,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Liquid Fund",
+    "inception_date": "2000-10-01 00:00:00",
+    "expense_ratio": 0.003,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Ultra Short Term Fund",
+    "inception_date": "2018-09-01 00:00:00",
+    "expense_ratio": 0.007,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Low Duration Fund",
+    "inception_date": "1999-11-01 00:00:00",
+    "expense_ratio": 0.0101,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Money Market Fund",
+    "inception_date": "1999-11-01 00:00:00",
+    "expense_ratio": 0.0041,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Short Term Debt Fund",
+    "inception_date": "2010-06-01 00:00:00",
+    "expense_ratio": 0.0074,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Medium Term Debt Fund",
+    "inception_date": "2002-02-01 00:00:00",
+    "expense_ratio": 0.0127,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Long Duration Debt Fund",
+    "inception_date": "2023-01-01 00:00:00",
+    "expense_ratio": 0.0065,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Banking and PSU Debt Fund",
+    "inception_date": "2014-03-01 00:00:00",
+    "expense_ratio": 0.0074,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Floating Rate Debt Fund",
+    "inception_date": "2007-10-01 00:00:00",
+    "expense_ratio": 0.0049,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Dynamic Debt Fund.",
+    "inception_date": "1997-04-01 00:00:00",
+    "expense_ratio": 0.011,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Corporate Bond Fund",
+    "inception_date": "2010-06-01 00:00:00",
+    "expense_ratio": 0.0059,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Credit Risk Debt Fund",
+    "inception_date": "2014-03-01 00:00:00",
+    "expense_ratio": 0.0125,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Income Fund",
+    "inception_date": "2000-09-01 00:00:00",
+    "expense_ratio": 0.0139,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Gilt Fund",
+    "inception_date": "2001-07-01 00:00:00",
+    "expense_ratio": 0.0071,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Multi-Asset Fund.",
+    "inception_date": "2005-08-01 00:00:00",
+    "expense_ratio": 0.0191,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC ELSS Tax saver",
+    "inception_date": "1996-03-01 00:00:00",
+    "expense_ratio": 0.0167,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Children's Fund",
+    "inception_date": "2001-03-01 00:00:00",
+    "expense_ratio": 0.0174,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Retirement Savings Fund - Equity Plan.",
+    "inception_date": "2016-02-01 00:00:00",
+    "expense_ratio": 0.018,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Retirement Savings Fund - Hybrid Equity Plan",
+    "inception_date": "2016-02-01 00:00:00",
+    "expense_ratio": 0.0205,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "HDFC Retirement Savings Fund - Hybrid Debt Plan",
+    "inception_date": "2016-02-01 00:00:00",
+    "expense_ratio": 0.0214,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Large Cap Fund",
+    "inception_date": "2009-05-01 00:00:00",
+    "expense_ratio": 0.0215,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Banking and PSU Debt Fund",
+    "inception_date": "2013-09-01 00:00:00",
+    "expense_ratio": 0.007,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Large & Mid Cap Fund",
+    "inception_date": "2007-06-01 00:00:00",
+    "expense_ratio": 0.0186,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Flexi Cap Fund",
+    "inception_date": "2015-02-01 00:00:00",
+    "expense_ratio": 0.0196,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Mid Cap Fund",
+    "inception_date": "2007-12-01 00:00:00",
+    "expense_ratio": 0.017,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Small Cap Fund",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 0.0183,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Recently Listed IPO Fund",
+    "inception_date": "2018-02-01 00:00:00",
+    "expense_ratio": 0.0232,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss ELSS Tax saver Fund",
+    "inception_date": "2008-12-01 00:00:00",
+    "expense_ratio": 0.0233,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Focused Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 0.0221,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Multi Cap Fund",
+    "inception_date": "2023-10-01 00:00:00",
+    "expense_ratio": 0.0194,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Technology Fund",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": 0.0234,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Business Cycle Fund",
+    "inception_date": "2024-07-01 00:00:00",
+    "expense_ratio": 0.0203,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Consumption Fund",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 0.0237,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Arbitrage Fund",
+    "inception_date": "2014-06-01 00:00:00",
+    "expense_ratio": 0.0104,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Equity Savings Fund",
+    "inception_date": "2014-10-01 00:00:00",
+    "expense_ratio": 0.016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Aggressive Hybrid Fund",
+    "inception_date": "2009-08-01 00:00:00",
+    "expense_ratio": 0.0193,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Balanced Advantage Fund",
+    "inception_date": "2009-08-01 00:00:00",
+    "expense_ratio": 0.0168,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Multi Asset Allocation Fund",
+    "inception_date": "2023-06-01 00:00:00",
+    "expense_ratio": 0.72,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Gold and Silver ETF Fund of Fund",
+    "inception_date": "2022-09-01 00:00:00",
+    "expense_ratio": 0.005,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Gold ETF",
+    "inception_date": "2023-11-01 00:00:00",
+    "expense_ratio": 0.0059,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Silver ETF",
+    "inception_date": "2023-11-01 00:00:00",
+    "expense_ratio": 0.0059,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Overnight Fund",
+    "inception_date": "2019-07-01 00:00:00",
+    "expense_ratio": 0.0016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Liquid Fund",
+    "inception_date": "2007-09-01 00:00:00",
+    "expense_ratio": 0.002,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Money Market Fund",
+    "inception_date": "2008-06-01 00:00:00",
+    "expense_ratio": 0.0082,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Government Securities Fund",
+    "inception_date": "2014-02-01 00:00:00",
+    "expense_ratio": 0.0115,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Low Duration Fund",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.0105,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund",
+    "inception_date": "2023-02-01 00:00:00",
+    "expense_ratio": 0.0063,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond ETF APRIL 2025",
+    "inception_date": "2020-07-01 00:00:00",
+    "expense_ratio": 0.0001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss NIFTY PSU Bond Plus SDL Apr - 2026 50:50 Index Fund",
+    "inception_date": "2021-03-01 00:00:00",
+    "expense_ratio": 0.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss NIFTY PSU Bond Plus SDL Apr - 2027 50:50 Index Fund",
+    "inception_date": "2021-10-01 00:00:00",
+    "expense_ratio": 0.004,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL June 2027 Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.0045,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund",
+    "inception_date": "2022-11-01 00:00:00",
+    "expense_ratio": 0.0045,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss CRISIL IBX AAA Financial Services Bond - Jan 2028 Index Fund",
+    "inception_date": "2024-11-01 00:00:00",
+    "expense_ratio": 0.0035,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 0.0034,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond ETF APRIL 2030",
+    "inception_date": "2019-12-01 00:00:00",
+    "expense_ratio": 0.0001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond ETF APRIL 2031",
+    "inception_date": "2020-07-01 00:00:00",
+    "expense_ratio": 0.0001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond ETF APRIL 2032",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.0001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond ETF APRIL 2033",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.0001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Apr 2037 Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.0048,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty 50 Index Fund",
+    "inception_date": "2015-05-01 00:00:00",
+    "expense_ratio": 0.005,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty 100 Quality 30 Index Fund",
+    "inception_date": "2016-05-01 00:00:00",
+    "expense_ratio": 0.009,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty Bank ETF",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.0007,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss BSE Capital Markets & Insurance ETF",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.0018,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty 500 Multicap Momentum Quality 50 ETF",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.0026,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.011,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty Alpha Low Volatility 30 Index Fund",
+    "inception_date": "2024-05-01 00:00:00",
+    "expense_ratio": 0.0109,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund",
+    "inception_date": "2020-10-01 00:00:00",
+    "expense_ratio": 0.0104,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty Large Mid Cap 250 Index Fund",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.0083,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty Next 50 Index Fund",
+    "inception_date": "2022-11-01 00:00:00",
+    "expense_ratio": 0.0079,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty Midcap 150 Momentum 50 Index Fund",
+    "inception_date": "2022-11-01 00:00:00",
+    "expense_ratio": 0.0111,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Nifty Smallcap 250 Index Fund",
+    "inception_date": "2022-11-01 00:00:00",
+    "expense_ratio": 0.0083,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond FOF APRIL 2025",
+    "inception_date": "2020-07-01 00:00:00",
+    "expense_ratio": 0.0008,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond FOF APRIL 2030",
+    "inception_date": "2019-12-01 00:00:00",
+    "expense_ratio": 0.0008,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond FOF APRIL 2031",
+    "inception_date": "2020-07-01 00:00:00",
+    "expense_ratio": 0.0008,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond ETF FOF APRIL 2032",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.0008,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Bharat Bond ETF FOF APRIL 2033",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.0009,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "\u2022 Edelweiss Greater China Equity Off-Shore Fund",
+    "inception_date": "2009-08-01 00:00:00",
+    "expense_ratio": 0.0235,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss US Technology Fund",
+    "inception_date": "2020-03-01 00:00:00",
+    "expense_ratio": 0.0235,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Emerging Markets Opportunities Equity Offshore Fund",
+    "inception_date": "2014-07-01 00:00:00",
+    "expense_ratio": 0.0233,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Asean Equity Off-Shore Fund",
+    "inception_date": "2011-07-01 00:00:00",
+    "expense_ratio": 0.0234,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss Europe Dynamic Equity Off-Shore Fund",
+    "inception_date": "2014-02-01 00:00:00",
+    "expense_ratio": 0.0233,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Edelweiss US Value Equity Off-Shore Fund",
+    "inception_date": "2013-08-01 00:00:00",
+    "expense_ratio": 0.0232,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Large Cap Fund",
+    "inception_date": "2008-04-01 00:00:00",
+    "expense_ratio": 0.0156,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Large & Midcap Fund",
+    "inception_date": "2010-07-01 00:00:00",
+    "expense_ratio": 0.0155,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Great Consumer Fund",
+    "inception_date": "2011-03-01 00:00:00",
+    "expense_ratio": 0.0187,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset ELSS Tax Saver Fund",
+    "inception_date": "2015-12-01 00:00:00",
+    "expense_ratio": 0.0158,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Healthcare Fund",
+    "inception_date": "2018-07-01 00:00:00",
+    "expense_ratio": 0.0196,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Focused Fund",
+    "inception_date": "2019-05-01 00:00:00",
+    "expense_ratio": 0.018,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Midcap Fund",
+    "inception_date": "2019-07-01 00:00:00",
+    "expense_ratio": 0.017,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Banking and Financial Services Fund",
+    "inception_date": "2020-12-01 00:00:00",
+    "expense_ratio": 0.0208,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Flexi Cap Fund",
+    "inception_date": "2023-02-01 00:00:00",
+    "expense_ratio": 0.0195,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Multicap Fund",
+    "inception_date": "2023-08-01 00:00:00",
+    "expense_ratio": 0.0189,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Small Cap Fund",
+    "inception_date": "2025-01-01 00:00:00",
+    "expense_ratio": 0.021,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Liquid Fund",
+    "inception_date": "2009-01-01 00:00:00",
+    "expense_ratio": 0.002,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Low Duration Fund",
+    "inception_date": "2012-06-01 00:00:00",
+    "expense_ratio": 0.0086,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Dynamic Bond Fund",
+    "inception_date": "2017-03-01 00:00:00",
+    "expense_ratio": 0.0102,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Short Duration Fund",
+    "inception_date": "2018-03-01 00:00:00",
+    "expense_ratio": 0.0111,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Overnight Fund",
+    "inception_date": "2019-10-01 00:00:00",
+    "expense_ratio": 0.0015,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Banking and PSU Fund",
+    "inception_date": "2020-07-01 00:00:00",
+    "expense_ratio": 0.0081,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Ultra Short Duration Fund",
+    "inception_date": "2020-10-01 00:00:00",
+    "expense_ratio": 0.0041,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Corporate Bond Fund",
+    "inception_date": "2021-03-01 00:00:00",
+    "expense_ratio": 0.0063,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Money Market Fund",
+    "inception_date": "2021-08-01 00:00:00",
+    "expense_ratio": 0.0044,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Long Duration Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.0076,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Aggressive Hybrid Fund",
+    "inception_date": "2015-07-01 00:00:00",
+    "expense_ratio": 0.0194,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Equity Savings Fund",
+    "inception_date": "2019-01-01 00:00:00",
+    "expense_ratio": 0.0132,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Arbitrage Fund",
+    "inception_date": "2018-06-01 00:00:00",
+    "expense_ratio": 0.0093,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Balanced Advantage Fund",
+    "inception_date": "2022-01-01 00:00:00",
+    "expense_ratio": 0.0168,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Multi Asset Allocation Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.0159,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 50 ETF",
+    "inception_date": "2018-11-01 00:00:00",
+    "expense_ratio": 0.0005,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Next 50",
+    "inception_date": "2020-01-01 00:00:00",
+    "expense_ratio": 0.0005,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Financial Services ETF",
+    "inception_date": "2021-07-01 00:00:00",
+    "expense_ratio": 0.0012,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty India Manufacturing ETF",
+    "inception_date": "2022-01-01 00:00:00",
+    "expense_ratio": 0.0046,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Midcap 150 ETF",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.0006,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 100 Low Volatility 30 ETF",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.0034,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset BSE Sensex ETF",
+    "inception_date": "2023-09-01 00:00:00",
+    "expense_ratio": 0.0005,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 200 Alpha 30 ETF",
+    "inception_date": "2023-10-01 00:00:00",
+    "expense_ratio": 0.0039,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Smallcap 250 MQ 100 ETF",
+    "inception_date": "2024-02-01 00:00:00",
+    "expense_ratio": 0.004,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty MidSmallcap400 MQ 100 ETF",
+    "inception_date": "2024-05-01 00:00:00",
+    "expense_ratio": 0.004,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty500 Multicap 50:25:25 ETF",
+    "inception_date": "2024-08-01 00:00:00",
+    "expense_ratio": 0.0016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty India New Age Consumption ETF",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.0033,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset BSE 200 Equal Weight ETF",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.0018,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset BSE Select IPO ETF",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.0019,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 100 ESG Sector Leaders ETF",
+    "inception_date": "2020-11-01 00:00:00",
+    "expense_ratio": 0.0041,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset NYSE FANG+ ETF",
+    "inception_date": "2021-05-01 00:00:00",
+    "expense_ratio": 0.0063,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset S&P 500 TOP 50 ETF",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 0.0058,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Hang Seng TECH ETF",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.0054,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Bank ETF",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 0.001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty IT ETF",
+    "inception_date": "2023-10-01 00:00:00",
+    "expense_ratio": 0.001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty PSU Bank ETF",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.0018,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Metal ETF",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.0028,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty EV and New Age Automotive ETF",
+    "inception_date": "2024-05-01 00:00:00",
+    "expense_ratio": 0.0046,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 8-13 yr G-Sec ETF",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 1D Rate Liquid ETF - Growth",
+    "inception_date": "2024-11-01 00:00:00",
+    "expense_ratio": 0.0016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 1D Rate Liquid ETF - IDCW",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 0.0028,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Gold ETF",
+    "inception_date": "2020-03-01 00:00:00",
+    "expense_ratio": 0.0029,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Silver ETF",
+    "inception_date": "2022-06-01 00:00:00",
+    "expense_ratio": 0.0031,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Equity Allocator Fund of Fund",
+    "inception_date": "2020-09-01 00:00:00",
+    "expense_ratio": 0.0012,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund",
+    "inception_date": "2020-11-01 00:00:00",
+    "expense_ratio": 0.0042,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset NYSE FANG + ETF Fund of Fund",
+    "inception_date": "2021-05-01 00:00:00",
+    "expense_ratio": 0.0044,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset S&P 500 TOP 50 ETF Fund of Fund",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 0.0049,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Hang Seng TECH ETF Fund of Fund",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.0053,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty India Manufacturing ETF Fund of Fund",
+    "inception_date": "2022-01-01 00:00:00",
+    "expense_ratio": 0.0046,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund",
+    "inception_date": "2022-09-01 00:00:00",
+    "expense_ratio": 0.0041,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund",
+    "inception_date": "2022-09-01 00:00:00",
+    "expense_ratio": 0.0052,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund Of Fund",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": 0.0072,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF Fund of Fund",
+    "inception_date": "2024-05-01 00:00:00",
+    "expense_ratio": 0.0077,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 200 Alpha 30 ETF Fund of Fund",
+    "inception_date": "2024-07-01 00:00:00",
+    "expense_ratio": 0.0072,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Gold ETF Fund of Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.0069,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty India New Age Consumption ETF Fund of Fund",
+    "inception_date": "2025-01-01 00:00:00",
+    "expense_ratio": 0.0061,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset BSE 200 Equal Weight ETF Fund of Fund",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.0067,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset BSE Select IPO ETF Fund of Fund",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.0067,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Large Midcap 250 Index Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.0085,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty 50 Index Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.0075,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty Total Market Index Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.009,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty SDL Jun 2027 Index Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.0033,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Crisil IBX Gilt Index - April 2033 Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.0036,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.0031,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Mirae Asset Nifty SDL June 2028 Index Fund",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.0048,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Bluechip Fund",
+    "inception_date": "1998-12-01 00:00:00",
+    "expense_ratio": 0.0173,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Flexicap Fund",
+    "inception_date": "2009-09-01 00:00:00",
+    "expense_ratio": 0.0147,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Multicap Fund",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 0.0164,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Equity Opportunities Fund",
+    "inception_date": "2004-09-01 00:00:00",
+    "expense_ratio": 0.016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Emerging Equity Fund",
+    "inception_date": "2007-03-01 00:00:00",
+    "expense_ratio": 0.0144,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Small Cap Fund",
+    "inception_date": "2005-02-01 00:00:00",
+    "expense_ratio": 0.0167,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak India EQ Contra Fund",
+    "inception_date": "2005-07-01 00:00:00",
+    "expense_ratio": 0.0191,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Focused Equity Fund",
+    "inception_date": "2019-10-01 00:00:00",
+    "expense_ratio": 0.0178,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak ELSS Tax Saver Fund",
+    "inception_date": "2005-11-01 00:00:00",
+    "expense_ratio": 0.0197,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Infrastructure & Economic Reform Fund",
+    "inception_date": "2008-06-01 00:00:00",
+    "expense_ratio": 0.0203,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Pioneer Fund",
+    "inception_date": "2019-08-01 00:00:00",
+    "expense_ratio": 0.0213,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak ESG Exclusionary Strategy Fund",
+    "inception_date": "2020-11-01 00:00:00",
+    "expense_ratio": 0.0204,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Manufacture In India Fund",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 0.0205,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Business Cycle Fund",
+    "inception_date": "2021-08-01 00:00:00",
+    "expense_ratio": 0.0185,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Banking & Financial Services Fund",
+    "inception_date": "2010-12-01 00:00:00",
+    "expense_ratio": 0.0193,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Quant Fund",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 0.0202,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Consumption Fund",
+    "inception_date": "2013-08-01 00:00:00",
+    "expense_ratio": 0.0189,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Healthcare Fund",
+    "inception_date": "2015-10-01 00:00:00",
+    "expense_ratio": 0.0211,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Technology Fund",
+    "inception_date": "2008-03-01 00:00:00",
+    "expense_ratio": 0.0197,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Special Opportunities Fund",
+    "inception_date": "2015-03-01 00:00:00",
+    "expense_ratio": 0.0198,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak MNC Fund",
+    "inception_date": "2014-07-01 00:00:00",
+    "expense_ratio": 0.0209,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Transportation & Logistics Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.0215,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Balanced Advantage Fund",
+    "inception_date": "2018-08-01 00:00:00",
+    "expense_ratio": 0.0166,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Equity Arbitrage Fund",
+    "inception_date": "2005-09-01 00:00:00",
+    "expense_ratio": 0.0105,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Equity Savings Fund",
+    "inception_date": "2014-10-01 00:00:00",
+    "expense_ratio": 0.0177,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Multi Asset Allocation Fund",
+    "inception_date": "2023-09-01 00:00:00",
+    "expense_ratio": 0.0174,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Equity Hybrid Fund",
+    "inception_date": "1999-11-01 00:00:00",
+    "expense_ratio": 0.0177,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Debt Hybrid Fund",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 0.0166,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Overnight Fund",
+    "inception_date": "2019-01-01 00:00:00",
+    "expense_ratio": 0.0016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Liquid Fund",
+    "inception_date": "2003-11-01 00:00:00",
+    "expense_ratio": 0.0031,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Savings Fund",
+    "inception_date": "2004-08-01 00:00:00",
+    "expense_ratio": 0.0081,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Corporate Bond Fund",
+    "inception_date": "2007-09-01 00:00:00",
+    "expense_ratio": 0.0068,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Dynamic Bond Fund",
+    "inception_date": "2008-05-01 00:00:00",
+    "expense_ratio": 0.0133,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Long Duration Fund",
+    "inception_date": "nan",
+    "expense_ratio": 0.0062,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Multi Asset Allocator Fund of Fund - Dynamic",
+    "inception_date": "2004-08-01 00:00:00",
+    "expense_ratio": 0.0099,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Gold Fund",
+    "inception_date": "2011-03-01 00:00:00",
+    "expense_ratio": 0.006,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Silver ETF Fund Of Fund",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.005,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Income Plus Arbitrage FOF",
+    "inception_date": "2022-11-01 00:00:00",
+    "expense_ratio": 0.0032,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Global Emerging Market Fund",
+    "inception_date": "2007-09-01 00:00:00",
+    "expense_ratio": 0.0162,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak International REIT FOF",
+    "inception_date": "2020-12-01 00:00:00",
+    "expense_ratio": 0.0136,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak NASDAQ 100 Fund of Fund",
+    "inception_date": "2021-02-01 00:00:00",
+    "expense_ratio": 0.0061,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Global Innovation Fund of Fund",
+    "inception_date": "2021-07-01 00:00:00",
+    "expense_ratio": 0.0159,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 50 ETF",
+    "inception_date": "2010-02-01 00:00:00",
+    "expense_ratio": 0.0004,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak BSE Sensex ETF",
+    "inception_date": "2008-06-01 00:00:00",
+    "expense_ratio": 0.0018,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty PSU Bank ETF",
+    "inception_date": "2007-11-01 00:00:00",
+    "expense_ratio": 0.0049,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Bank ETF",
+    "inception_date": "2014-12-01 00:00:00",
+    "expense_ratio": 0.0015,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Alpha 50 ETF",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.0019,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Midcap 50 ETF",
+    "inception_date": "2022-01-01 00:00:00",
+    "expense_ratio": 0.0018,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 100 Low Volatility 30 ETF",
+    "inception_date": "2022-05-01 00:00:00",
+    "expense_ratio": 0.0021,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty India Consumption ETF",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.0023,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty MNC ETF",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.0024,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Gold ETF",
+    "inception_date": "2007-07-01 00:00:00",
+    "expense_ratio": 0.0043,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Floating Rate Fund",
+    "inception_date": "2019-05-01 00:00:00",
+    "expense_ratio": 0.0063,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Medium Term Fund",
+    "inception_date": "2014-03-01 00:00:00",
+    "expense_ratio": 0.0163,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Banking & PSU Debt Fund",
+    "inception_date": "1998-12-01 00:00:00",
+    "expense_ratio": 0.0075,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Gilt Fund",
+    "inception_date": "1998-12-01 00:00:00",
+    "expense_ratio": 0.0148,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Bond Fund",
+    "inception_date": "1999-11-01 00:00:00",
+    "expense_ratio": 0.0166,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Low Duration Fund",
+    "inception_date": "2008-03-01 00:00:00",
+    "expense_ratio": 0.0068,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Bond Short Term Fund",
+    "inception_date": "2002-05-01 00:00:00",
+    "expense_ratio": 0.0112,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Credit Risk Fund",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": NaN,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak MSCI India ETF",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 0.004,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 100 Equal Weight ETF",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 0.0025,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Midcap 150 ETF",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.001,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Silver ETF",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.0045,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 1D Rate Liquid ETF",
+    "inception_date": "2019-01-01 00:00:00",
+    "expense_ratio": 0.0019,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Next 50 Index Fund",
+    "inception_date": "2021-03-01 00:00:00",
+    "expense_ratio": 0.0057,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 50 Index Fund",
+    "inception_date": "2021-06-01 00:00:00",
+    "expense_ratio": 0.0035,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Smallcap 50 Index Fund",
+    "inception_date": "2023-04-01 00:00:00",
+    "expense_ratio": 0.009,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 200 Momentum 30 Index Fund",
+    "inception_date": "2023-06-01 00:00:00",
+    "expense_ratio": 0.0079,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Financial Services Ex-Bank Index Fund",
+    "inception_date": "2023-08-01 00:00:00",
+    "expense_ratio": 0.0073,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak BSE Housing Index Fund",
+    "inception_date": "2023-08-01 00:00:00",
+    "expense_ratio": 0.0072,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 100 Low Volatility 30 Index Fund",
+    "inception_date": "2024-06-01 00:00:00",
+    "expense_ratio": 0.0094,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak BSE PSU-Index Fund",
+    "inception_date": "2024-07-01 00:00:00",
+    "expense_ratio": 0.0104,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Midcap 50 Index Fund",
+    "inception_date": "2024-08-01 00:00:00",
+    "expense_ratio": 0.0086,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty India Tourism Index Fund",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.0096,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Midcap 150 Momentum 50 Index Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.0093,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 50 Equal Weight Index Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.0072,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty 100 Equal Weight Index Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.0072,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Smallcap 250 Index Fund",
+    "inception_date": "2025-01-01 00:00:00",
+    "expense_ratio": 0.0073,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak BSE Sensex Index Fund",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 0.0031,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Commodities Index Fund",
+    "inception_date": "nan",
+    "expense_ratio": NaN,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty Midcap 150 Index Fund",
+    "inception_date": "nan",
+    "expense_ratio": NaN,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty SDL Apr 2027 Top 12 Equal Weight Index Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.0035,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.0036,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty SDL PLUS AAA PSU Bond Jul 2028 60:40 Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.004,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "KOTAK Nifty SDL JUL 2026 Index Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.0041,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "KOTAK Nifty SDL JUL 2033 Index Fund",
+    "inception_date": "2023-02-01 00:00:00",
+    "expense_ratio": 0.0043,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty G-SEC July 2033 Index Fund",
+    "inception_date": "2023-10-01 00:00:00",
+    "expense_ratio": 0.0039,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak Nifty AAA Bond Jun 2025 HTM Index Fund",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": 0.0023,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak CRISIL-IBX AAA Financial Services Index Sep 2027 Fund",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.004,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak CRISIL-IBX AAA Bond Financial Services Index - Dec 2026 Fund",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 0.0029,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Kotak CRISIL-IBX Financial Services 3-6 Months Debt Index Fund",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.0035,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Large Cap Fund",
+    "inception_date": "2007-08-01 00:00:00",
+    "expense_ratio": 1.58,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Vision Fund",
+    "inception_date": "1995-10-01 00:00:00",
+    "expense_ratio": 1.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Quant Fund",
+    "inception_date": "2008-04-01 00:00:00",
+    "expense_ratio": 0.95,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Growth Fund",
+    "inception_date": "1995-10-01 00:00:00",
+    "expense_ratio": 1.61,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Focused Equity Fund",
+    "inception_date": "2018-04-01 00:00:00",
+    "expense_ratio": 1.87,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Small Cap Fund",
+    "inception_date": "2010-09-01 00:00:00",
+    "expense_ratio": 1.49,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Value Fund",
+    "inception_date": "2005-06-01 00:00:00",
+    "expense_ratio": 1.85,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Multi Cap Fund",
+    "inception_date": "2005-03-01 00:00:00",
+    "expense_ratio": 1.58,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Flexi Cap Fund",
+    "inception_date": "2021-08-01 00:00:00",
+    "expense_ratio": 1.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ELSS Tax Saver Fund",
+    "inception_date": "2005-09-01 00:00:00",
+    "expense_ratio": 1.72,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Banking & Financial Services Fund",
+    "inception_date": "2003-05-01 00:00:00",
+    "expense_ratio": 1.88,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Power & Infra Fund",
+    "inception_date": "2004-05-01 00:00:00",
+    "expense_ratio": 1.87,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Pharma Fund",
+    "inception_date": "2004-06-01 00:00:00",
+    "expense_ratio": 1.82,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Consumption Fund",
+    "inception_date": "2004-09-01 00:00:00",
+    "expense_ratio": 2.02,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Japan Equity Fund",
+    "inception_date": "2014-08-01 00:00:00",
+    "expense_ratio": 2.46,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India US Equity Opportunities Fund",
+    "inception_date": "2015-07-01 00:00:00",
+    "expense_ratio": 2.39,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Taiwan Equity Fund",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 2.44,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Innovation Fund",
+    "inception_date": "2023-08-01 00:00:00",
+    "expense_ratio": 2.03,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Overnight Fund",
+    "inception_date": "2018-12-01 00:00:00",
+    "expense_ratio": 0.16,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Liquid Fund",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 0.32,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Money Market Fund",
+    "inception_date": "2005-06-01 00:00:00",
+    "expense_ratio": 0.44,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Ultra Short Duration Fund (Number of Segregated Portfolio -1)",
+    "inception_date": "2001-12-01 00:00:00",
+    "expense_ratio": 1.09,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Low Duration Fund",
+    "inception_date": "2007-03-01 00:00:00",
+    "expense_ratio": 0.95,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Corporate Bond Fund",
+    "inception_date": "2000-09-01 00:00:00",
+    "expense_ratio": 0.74,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Banking & PSU Debt Fund",
+    "inception_date": "2015-05-01 00:00:00",
+    "expense_ratio": 0.76,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Floating Rate Fund",
+    "inception_date": "2004-08-01 00:00:00",
+    "expense_ratio": 0.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Short Term Fund",
+    "inception_date": "2002-12-01 00:00:00",
+    "expense_ratio": 0.93,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nivesh Lakshya Fund",
+    "inception_date": "2018-07-01 00:00:00",
+    "expense_ratio": 0.62,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Credit Risk Fund (Number of Segregated Portfolios- 2)",
+    "inception_date": "2005-06-01 00:00:00",
+    "expense_ratio": 1.45,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Strategic Debt Fund (Number of Segregated Portfolios - 2)",
+    "inception_date": "2014-06-01 00:00:00",
+    "expense_ratio": 1.09,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Income Fund",
+    "inception_date": "1998-01-01 00:00:00",
+    "expense_ratio": 1.52,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Dynamic Bond Fund",
+    "inception_date": "2004-11-01 00:00:00",
+    "expense_ratio": 0.71,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Gilt Securities Fund",
+    "inception_date": "2008-08-01 00:00:00",
+    "expense_ratio": 1.28,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Balanced Advantage Fund",
+    "inception_date": "2004-11-01 00:00:00",
+    "expense_ratio": 1.76,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Equity Hybrid Fund (Number of Segregated Portfolios- 2)",
+    "inception_date": "2005-06-01 00:00:00",
+    "expense_ratio": 1.98,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Equity Savings Fund (Number of Segregated Portfolios- 2)",
+    "inception_date": "2015-05-01 00:00:00",
+    "expense_ratio": 1.78,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Arbitrage Fund",
+    "inception_date": "2010-10-01 00:00:00",
+    "expense_ratio": 1.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Hybrid Bond Fund (Number of Segregated Portfolios - 2)",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 1.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Multi Asset Allocation Fund",
+    "inception_date": "2020-08-01 00:00:00",
+    "expense_ratio": 1.49,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Index Fund - Nifty 50 Plan",
+    "inception_date": "2010-09-01 00:00:00",
+    "expense_ratio": 0.42,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Index Fund - BSE Sensex Plan",
+    "inception_date": "2010-09-01 00:00:00",
+    "expense_ratio": 0.48,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Smallcap 250 Index Fund",
+    "inception_date": "2020-10-01 00:00:00",
+    "expense_ratio": 0.94,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Midcap 150 Index Fund",
+    "inception_date": "2021-02-01 00:00:00",
+    "expense_ratio": 0.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty 50 Value 20 Index Fund",
+    "inception_date": "2021-02-01 00:00:00",
+    "expense_ratio": 0.77,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Alpha Low Volatility 30 Index Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 0.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Bank Index Fund",
+    "inception_date": "2024-02-01 00:00:00",
+    "expense_ratio": 0.79,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty IT Index Fund",
+    "inception_date": "2024-02-01 00:00:00",
+    "expense_ratio": 0.86,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty 500 Equal Weight Index Fund",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty 500 Momentum 50 Index Fund",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.87,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Auto Index Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Realty Index Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60:40 Index Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.31,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund",
+    "inception_date": "2022-11-01 00:00:00",
+    "expense_ratio": 0.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty G-Sec Sep 2027 Maturity Index Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty G-Sec Jun 2036 Maturity Index Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.42,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty SDL Plus G-Sec - Jun 2029 Maturity 70:30 Index Fund",
+    "inception_date": "2023-02-01 00:00:00",
+    "expense_ratio": 0.39,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.36,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India CRISIL-IBX AAA Financial Services - Dec 2026 Index Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.32,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India CRISIL-IBX AAA Financial Services - Jan 2028 Index Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 0.35,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty 50 BeES",
+    "inception_date": "2001-12-01 00:00:00",
+    "expense_ratio": 0.04,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF BSE Sensex",
+    "inception_date": "2014-09-01 00:00:00",
+    "expense_ratio": 0.04,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty 50 Value 20",
+    "inception_date": "2015-06-01 00:00:00",
+    "expense_ratio": 0.26,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty Next 50 Junior BeES",
+    "inception_date": "2003-02-01 00:00:00",
+    "expense_ratio": 0.17,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty 100",
+    "inception_date": "2013-03-01 00:00:00",
+    "expense_ratio": 0.5,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty India Consumption",
+    "inception_date": "2014-04-01 00:00:00",
+    "expense_ratio": 0.31,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty Dividend Opportunities 50",
+    "inception_date": "2014-04-01 00:00:00",
+    "expense_ratio": 0.37,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty Infrastructure BeES",
+    "inception_date": "2010-09-01 00:00:00",
+    "expense_ratio": 1.03,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty Bank BeES",
+    "inception_date": "2004-05-01 00:00:00",
+    "expense_ratio": 0.19,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty PSU Bank BeES",
+    "inception_date": "2007-10-01 00:00:00",
+    "expense_ratio": 0.49,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty 50 Shariah BeES",
+    "inception_date": "2009-03-01 00:00:00",
+    "expense_ratio": 0.96,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty Midcap 150",
+    "inception_date": "2019-01-01 00:00:00",
+    "expense_ratio": 0.21,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Hang Seng BeES",
+    "inception_date": "2010-03-01 00:00:00",
+    "expense_ratio": 0.93,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF BSE Sensex Next 50",
+    "inception_date": "2019-07-01 00:00:00",
+    "expense_ratio": 0.23,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty IT",
+    "inception_date": "2020-06-01 00:00:00",
+    "expense_ratio": 0.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Pharma ETF",
+    "inception_date": "2021-07-01 00:00:00",
+    "expense_ratio": 0.21,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Auto ETF",
+    "inception_date": "2022-01-01 00:00:00",
+    "expense_ratio": 0.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "CPSE ETF",
+    "inception_date": "2014-03-01 00:00:00",
+    "expense_ratio": 0.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty 1D Rate Liquid BeES",
+    "inception_date": "2003-07-01 00:00:00",
+    "expense_ratio": 0.69,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt",
+    "inception_date": "2016-07-01 00:00:00",
+    "expense_ratio": 0.1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty SDL Apr 2026 Top 20 Equal Weight",
+    "inception_date": "2021-03-01 00:00:00",
+    "expense_ratio": 0.2,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Nifty 5 yr Benchmark G-Sec",
+    "inception_date": "2021-04-01 00:00:00",
+    "expense_ratio": 0.09,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Silver ETF",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.55,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India ETF Gold BeES",
+    "inception_date": "2007-03-01 00:00:00",
+    "expense_ratio": 0.82,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Gold Savings Fund",
+    "inception_date": "2011-03-01 00:00:00",
+    "expense_ratio": 0.35,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Nifty Next 50 Junior BeES FoF",
+    "inception_date": "2018-03-01 00:00:00",
+    "expense_ratio": 0.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Passive Flexicap",
+    "inception_date": "2021-01-01 00:00:00",
+    "expense_ratio": 0.58,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Asset Allocator FoF",
+    "inception_date": "2021-02-01 00:00:00",
+    "expense_ratio": 1.23,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Silver ETF Fund of Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.59,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Retirement Fund",
+    "inception_date": "2015-02-01 00:00:00",
+    "expense_ratio": 2.09,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Nippon India Retirement Fund - Wealth Creation Scheme",
+    "inception_date": "2015-02-01 00:00:00",
+    "expense_ratio": 1.96,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Flexicap Fund",
+    "inception_date": "2003-09-01 00:00:00",
+    "expense_ratio": 1.7,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Blue Chip Equity Fund",
+    "inception_date": "2010-08-01 00:00:00",
+    "expense_ratio": 1.7,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Emerging Equities",
+    "inception_date": "2005-03-01 00:00:00",
+    "expense_ratio": 1.62,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Small Cap Fund",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 1.71,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Infrastructure",
+    "inception_date": "2005-12-01 00:00:00",
+    "expense_ratio": 2.32,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Consumer Trends Funds",
+    "inception_date": "2009-09-01 00:00:00",
+    "expense_ratio": 2.1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco ELSS Tax Saver",
+    "inception_date": "1993-03-01 00:00:00",
+    "expense_ratio": 1.7,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Focused Equity Fund",
+    "inception_date": "2021-05-01 00:00:00",
+    "expense_ratio": 1.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Value Fund",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 2.15,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Midcap Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 1.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Multicap Fund",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 1.87,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Manufacturing Fund",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": 2.12,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Overnight Fund",
+    "inception_date": "2019-07-01 00:00:00",
+    "expense_ratio": 0.11,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Liquid Fund",
+    "inception_date": "2002-01-01 00:00:00",
+    "expense_ratio": 0.19,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Ultra Short Term Fund",
+    "inception_date": "2003-09-01 00:00:00",
+    "expense_ratio": 0.95,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Savings Fund",
+    "inception_date": "2005-03-01 00:00:00",
+    "expense_ratio": 0.63,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Short Term Fund",
+    "inception_date": "2011-04-01 00:00:00",
+    "expense_ratio": 1.02,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Income Fund",
+    "inception_date": "2002-09-01 00:00:00",
+    "expense_ratio": 1.88,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Dynamic Bond Fund",
+    "inception_date": "2009-05-01 00:00:00",
+    "expense_ratio": 1.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Corporate Bond Fund",
+    "inception_date": "2014-02-01 00:00:00",
+    "expense_ratio": 1.03,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Gilt Fund",
+    "inception_date": "1999-12-01 00:00:00",
+    "expense_ratio": 1.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Banking and PSU Debt Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 0.71,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Conservative Hybrid Fund",
+    "inception_date": "1988-04-01 00:00:00",
+    "expense_ratio": 1.84,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Equity Hybrid Fund",
+    "inception_date": "1993-02-01 00:00:00",
+    "expense_ratio": 1.74,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Canara Robeco Balanced Advantage Fund",
+    "inception_date": "2024-08-01 00:00:00",
+    "expense_ratio": 2.11,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Multi Cap Fund",
+    "inception_date": "2024-07-01 00:00:00",
+    "expense_ratio": 1.82,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Bluechip Fund",
+    "inception_date": "1993-12-01 00:00:00",
+    "expense_ratio": 1.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Flexi Cap Fund",
+    "inception_date": "1994-09-01 00:00:00",
+    "expense_ratio": 1.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Equity Advantage Fund",
+    "inception_date": "2005-03-01 00:00:00",
+    "expense_ratio": 2.05,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Focused Equity Fund",
+    "inception_date": "2007-07-01 00:00:00",
+    "expense_ratio": 1.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Templeton India Value Fund",
+    "inception_date": "1996-09-01 00:00:00",
+    "expense_ratio": 2.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Templeton India Equity Income Fund",
+    "inception_date": "2006-05-01 00:00:00",
+    "expense_ratio": 2.1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Prima Fund",
+    "inception_date": "1993-12-01 00:00:00",
+    "expense_ratio": 1.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India ELSS Tax Saver Fund",
+    "inception_date": "1999-04-01 00:00:00",
+    "expense_ratio": 1.85,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Smaller Companies Fund",
+    "inception_date": "2006-01-01 00:00:00",
+    "expense_ratio": 1.77,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin Build India Fund",
+    "inception_date": "2009-09-01 00:00:00",
+    "expense_ratio": 2.01,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Opportunities Fund",
+    "inception_date": "2000-02-01 00:00:00",
+    "expense_ratio": 1.79,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Technology Fund",
+    "inception_date": "1998-08-01 00:00:00",
+    "expense_ratio": 2.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Feeder Franklin U.S. Opportunities Fund",
+    "inception_date": "2012-02-01 00:00:00",
+    "expense_ratio": 1.55,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Feeder Templeton European Opportunities Fund",
+    "inception_date": "2014-05-01 00:00:00",
+    "expense_ratio": 1.34,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin Asian Equity Fund",
+    "inception_date": "2008-01-01 00:00:00",
+    "expense_ratio": 2.54,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India NSE Nifty 50 Index Fund",
+    "inception_date": "2000-08-01 00:00:00",
+    "expense_ratio": 0.63,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Overnight Fund",
+    "inception_date": "2019-05-01 00:00:00",
+    "expense_ratio": 0.11,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Liquid Fund",
+    "inception_date": "R : Apr 1998 I : Jun 2004 SI : Sep 2005",
+    "expense_ratio": "(R) 0.86 (I) 0.61, (SI) 0.20",
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Ultra Short Duration Fund",
+    "inception_date": "2024-08-01 00:00:00",
+    "expense_ratio": 0.67,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Money Market Fund",
+    "inception_date": "R : Feb 2002 I : Sep 2005",
+    "expense_ratio": 0.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Floating Rate Fund",
+    "inception_date": "2001-04-01 00:00:00",
+    "expense_ratio": 0.98,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Corporate Debt Fund",
+    "inception_date": "1997-06-01 00:00:00",
+    "expense_ratio": 0.83,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Banking & PSU Debt Fund",
+    "inception_date": "2014-04-01 00:00:00",
+    "expense_ratio": 0.51,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Government Securities Fund",
+    "inception_date": "2001-12-01 00:00:00",
+    "expense_ratio": 1.15,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Arbitrage Fund",
+    "inception_date": "2024-11-01 00:00:00",
+    "expense_ratio": 0.98,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Low Duration Fund",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.87,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Long Duration Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.85,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Medium To Long Duration Fund",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.76,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Debt Hybrid Fund",
+    "inception_date": "2000-09-01 00:00:00",
+    "expense_ratio": 1.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Equity Savings Fund",
+    "inception_date": "2018-08-01 00:00:00",
+    "expense_ratio": 1.12,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Equity Hybrid Fund",
+    "inception_date": "1999-12-01 00:00:00",
+    "expense_ratio": 2.09,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Pension Plan",
+    "inception_date": "1997-03-01 00:00:00",
+    "expense_ratio": 2.29,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Multi-Asset Solution Fund of Funds",
+    "inception_date": "2014-11-01 00:00:00",
+    "expense_ratio": 1.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Dynamic Asset Allocation Fund of Funds",
+    "inception_date": "2003-10-01 00:00:00",
+    "expense_ratio": 1.33,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Franklin India Balanced Advantage Fund",
+    "inception_date": "2022-09-01 00:00:00",
+    "expense_ratio": 1.95,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Bluechip Fund",
+    "inception_date": "2008-05-01 00:00:00",
+    "expense_ratio": 1.41,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Flexicap Fund",
+    "inception_date": "2021-07-01 00:00:00",
+    "expense_ratio": 1.72,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Large & Mid Cap Fund",
+    "inception_date": "1998-07-01 00:00:00",
+    "expense_ratio": 1.69,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Multicap Fund",
+    "inception_date": "1994-10-01 00:00:00",
+    "expense_ratio": 1.76,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential India Opportunities Fund",
+    "inception_date": "2019-01-01 00:00:00",
+    "expense_ratio": 1.63,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Value Discovery Fund",
+    "inception_date": "2004-08-01 00:00:00",
+    "expense_ratio": 1.54,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential ELSS Tax Saver Fund",
+    "inception_date": "1999-08-01 00:00:00",
+    "expense_ratio": 1.73,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Focused Equity Fund",
+    "inception_date": "2009-05-01 00:00:00",
+    "expense_ratio": 1.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Equity Minimum Variance Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 1.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Dividend Yield Equity Fund",
+    "inception_date": "2014-05-01 00:00:00",
+    "expense_ratio": 1.88,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Rural Opportunities Fund",
+    "inception_date": "2025-01-01 00:00:00",
+    "expense_ratio": 2.16,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential PSU Equity Fund",
+    "inception_date": "2022-09-01 00:00:00",
+    "expense_ratio": 2.11,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Midcap Fund",
+    "inception_date": "2004-10-01 00:00:00",
+    "expense_ratio": 1.93,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Smallcap Fund",
+    "inception_date": "2007-10-01 00:00:00",
+    "expense_ratio": 1.83,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Banking & Financial Services Fund",
+    "inception_date": "2008-08-01 00:00:00",
+    "expense_ratio": 1.83,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential FMCG Fund",
+    "inception_date": "1999-03-01 00:00:00",
+    "expense_ratio": 2.17,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Technology Fund",
+    "inception_date": "2000-03-01 00:00:00",
+    "expense_ratio": 1.79,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Business Cycle Fund",
+    "inception_date": "2021-01-01 00:00:00",
+    "expense_ratio": 1.73,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Transportation and Logistics Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 1.98,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Housing Opportunities Fund",
+    "inception_date": "2022-04-01 00:00:00",
+    "expense_ratio": 2.06,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential ESG Exclusionary Strategy Fund",
+    "inception_date": "2020-10-01 00:00:00",
+    "expense_ratio": 2.18,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund",
+    "inception_date": "2018-07-01 00:00:00",
+    "expense_ratio": 1.94,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Exports and Services Fund",
+    "inception_date": "2005-11-01 00:00:00",
+    "expense_ratio": 2.27,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Infrastructure Fund",
+    "inception_date": "2005-08-01 00:00:00",
+    "expense_ratio": 1.88,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Manufacturing Fund",
+    "inception_date": "2018-10-01 00:00:00",
+    "expense_ratio": 1.86,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential MNC Fund",
+    "inception_date": "2019-06-01 00:00:00",
+    "expense_ratio": 2.18,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Bharat Consumption Fund",
+    "inception_date": "2019-04-01 00:00:00",
+    "expense_ratio": 2.05,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Energy Opportunities Fund",
+    "inception_date": "2024-07-01 00:00:00",
+    "expense_ratio": 1.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Commodities Fund",
+    "inception_date": "2019-10-01 00:00:00",
+    "expense_ratio": 2.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential US Bluechip Equity Fund",
+    "inception_date": "2012-07-01 00:00:00",
+    "expense_ratio": 2,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Quant Fund",
+    "inception_date": "2020-12-01 00:00:00",
+    "expense_ratio": 2.2,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Innovation Fund",
+    "inception_date": "2023-04-01 00:00:00",
+    "expense_ratio": 1.85,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Equity & Debt Fund",
+    "inception_date": "1999-11-01 00:00:00",
+    "expense_ratio": 1.59,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Equity - Arbitrage Fund",
+    "inception_date": "2006-12-01 00:00:00",
+    "expense_ratio": 0.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Balanced Advantage Fund",
+    "inception_date": "2006-12-01 00:00:00",
+    "expense_ratio": 1.46,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Equity Savings Fund",
+    "inception_date": "2014-12-01 00:00:00",
+    "expense_ratio": 0.95,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Regular Savings Fund",
+    "inception_date": "2004-03-01 00:00:00",
+    "expense_ratio": 1.72,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Multi-Asset Fund",
+    "inception_date": "2002-10-01 00:00:00",
+    "expense_ratio": 1.41,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Passive Multi-Asset Fund of Fund",
+    "inception_date": "2022-01-01 00:00:00",
+    "expense_ratio": 0.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Thematic Advantage Fund",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 1.48,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Passive Strategy Fund",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 0.44,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential India Equity FOF",
+    "inception_date": "2020-02-01 00:00:00",
+    "expense_ratio": 1.21,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential BHARAT 22 FOF",
+    "inception_date": "2018-06-01 00:00:00",
+    "expense_ratio": 0.13,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Strategic Metal and Energy Equity Fund of Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 1.49,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Global Advantage Fund",
+    "inception_date": "2019-10-01 00:00:00",
+    "expense_ratio": 1.33,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Global Stable Equity Fund",
+    "inception_date": "2013-09-01 00:00:00",
+    "expense_ratio": 1.48,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Asset Allocator Fund",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 1.34,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Income plus Arbitrage Active FOF",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 1.04,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Debt Management Fund",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 0.66,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF",
+    "inception_date": "2021-04-01 00:00:00",
+    "expense_ratio": 0.51,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 0.53,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential BSE 500 ETF FOF",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Regular Gold Savings Fund",
+    "inception_date": "2011-10-01 00:00:00",
+    "expense_ratio": 0.39,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Silver ETF Fund of Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Overnight Fund",
+    "inception_date": "2018-11-01 00:00:00",
+    "expense_ratio": 0.16,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Liquid Fund",
+    "inception_date": "IPLF Retail Option: Nov 2005 IPLF Institutional Option: Apr 2003 IPLF Institutional Plus Option: Sep 2003 IPLF : Nov 2005",
+    "expense_ratio": 0.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Money Market Fund",
+    "inception_date": "2006-03-01 00:00:00",
+    "expense_ratio": 0.32,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Ultra Short Term Fund",
+    "inception_date": "2011-05-01 00:00:00",
+    "expense_ratio": 0.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Savings Fund",
+    "inception_date": "2002-09-01 00:00:00",
+    "expense_ratio": 0.53,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Floating Interest Fund",
+    "inception_date": "2005-11-01 00:00:00",
+    "expense_ratio": 1.18,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Short Term Fund",
+    "inception_date": "IPSTP : Oct 2001 IPSTP Institutional Option : Apr 2003",
+    "expense_ratio": 1.02,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Bond Fund",
+    "inception_date": "2008-08-01 00:00:00",
+    "expense_ratio": 1.03,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Corporate Bond Fund",
+    "inception_date": "2011-04-01 00:00:00",
+    "expense_ratio": 0.58,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Banking & PSU Debt Fund",
+    "inception_date": "2010-01-01 00:00:00",
+    "expense_ratio": 0.74,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Credit Risk Fund",
+    "inception_date": "2001-12-01 00:00:00",
+    "expense_ratio": 1.42,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Medium Term Bond Fund",
+    "inception_date": "2004-09-01 00:00:00",
+    "expense_ratio": 1.35,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Long Term Bond Fund",
+    "inception_date": "1998-07-01 00:00:00",
+    "expense_ratio": 0.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential All Seasons Bond Fund",
+    "inception_date": "2010-01-01 00:00:00",
+    "expense_ratio": 1.29,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Gilt Fund",
+    "inception_date": "1999-08-01 00:00:00",
+    "expense_ratio": 1.09,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Constant Maturity Gilt Fund",
+    "inception_date": "2014-09-01 00:00:00",
+    "expense_ratio": 0.39,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Child Care Fund (Gift Plan)",
+    "inception_date": "2001-08-01 00:00:00",
+    "expense_ratio": 2.21,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Retirement Fund - Pure Equity Plan",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 2.18,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Retirement Fund - Hybrid Aggressive Plan",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 2.32,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Retirement Fund - Hybrid Conservative Plan",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 2.08,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Retirement Fund - Pure Debt Plan",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 2.18,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Long Term Wealth Enhancement Fund",
+    "inception_date": "2018-03-01 00:00:00",
+    "expense_ratio": 1.39,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty Next 50 Index Fund",
+    "inception_date": "2010-06-01 00:00:00",
+    "expense_ratio": 0.66,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 0.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty Smallcap 250 Index Fund",
+    "inception_date": "2021-11-01 00:00:00",
+    "expense_ratio": 0.86,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty Midcap 150 Index Fund",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.92,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential NASDAQ 100 Index Fund",
+    "inception_date": "2021-10-01 00:00:00",
+    "expense_ratio": 1.09,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty Bank Index Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty SDL Sep 2027 Index Fund",
+    "inception_date": "2021-09-01 00:00:00",
+    "expense_ratio": 0.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty 200 Momentum 30 Index Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty IT Index Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 0.86,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty50 Equal Weight Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty50 Value 20 Index Fund",
+    "inception_date": "2024-02-01 00:00:00",
+    "expense_ratio": 0.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty LargeMidcap 250 Index Fund",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": 0.83,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty Auto Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty SDL Dec 2028 Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.37,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty Pharma Index Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty SDL Sep 2026 Index Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.39,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "ICICI Prudential Nifty G-Sec Dec 2030 Index Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 0.39,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Flexi Cap Fund",
+    "inception_date": "2011-06-01 00:00:00",
+    "expense_ratio": 2.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union MultiCap Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 2.24,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Business Cycle Fund",
+    "inception_date": "2004-03-01 00:00:00",
+    "expense_ratio": 2.36,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Focused Fund",
+    "inception_date": "2019-08-01 00:00:00",
+    "expense_ratio": 2.51,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Midcap Fund",
+    "inception_date": "2020-03-01 00:00:00",
+    "expense_ratio": 2.13,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Large and Midcap Fund",
+    "inception_date": "2019-12-01 00:00:00",
+    "expense_ratio": 2.33,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Small Cap Fund",
+    "inception_date": "2014-06-01 00:00:00",
+    "expense_ratio": 0.0216,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Innovation & Opportunitues Fund",
+    "inception_date": "2023-09-01 00:00:00",
+    "expense_ratio": 2.28,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union ELSS Tax saver Fund",
+    "inception_date": "2011-12-01 00:00:00",
+    "expense_ratio": 2.31,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Value Fund",
+    "inception_date": "2018-12-01 00:00:00",
+    "expense_ratio": 2.45,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Largecap Fund",
+    "inception_date": "2017-05-01 00:00:00",
+    "expense_ratio": 2.5,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Active Momentum Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 2.49,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Aggressive Hybrid Fund",
+    "inception_date": "2020-12-01 00:00:00",
+    "expense_ratio": 2.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Multi Asset Allocation Fund",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 2.15,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Balanced Advantage Fund",
+    "inception_date": "2017-12-01 00:00:00",
+    "expense_ratio": 2.16,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Equity Savings Fund",
+    "inception_date": "2018-08-01 00:00:00",
+    "expense_ratio": 2.02,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Arbitrage Fund",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 1.06,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Gold ETF",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 0.54,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Gold ETF Fund of Fund",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 0.59,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Retirement Fund",
+    "inception_date": "2022-09-01 00:00:00",
+    "expense_ratio": 2.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Children's Fund",
+    "inception_date": "2023-12-01 00:00:00",
+    "expense_ratio": 2.41,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Dynamic Bond Fund",
+    "inception_date": "2018-05-01 00:00:00",
+    "expense_ratio": 0.71,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Gilt Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 1.14,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Short Duration Fund",
+    "inception_date": "2025-01-01 00:00:00",
+    "expense_ratio": 0.85,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Money Market Fund",
+    "inception_date": "2021-08-01 00:00:00",
+    "expense_ratio": 0.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Liquid Fund",
+    "inception_date": "2011-06-01 00:00:00",
+    "expense_ratio": 0.18,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Overnight Fund",
+    "inception_date": "2019-03-01 00:00:00",
+    "expense_ratio": 0.18,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Union Corporate Bond Fund",
+    "inception_date": "2018-05-01 00:00:00",
+    "expense_ratio": 0.71,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Large Cap Fund",
+    "inception_date": "1994-09-01 00:00:00",
+    "expense_ratio": 2.14,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Large & Mid Cap Fund",
+    "inception_date": "2015-02-01 00:00:00",
+    "expense_ratio": 1.92,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Flexi Cap Fund",
+    "inception_date": "1993-04-01 00:00:00",
+    "expense_ratio": 2.31,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF MultiCap Fund",
+    "inception_date": "2022-10-01 00:00:00",
+    "expense_ratio": 2.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Mid cap Fund",
+    "inception_date": "2017-01-01 00:00:00",
+    "expense_ratio": 2.48,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Small Cap Fund",
+    "inception_date": "2017-06-01 00:00:00",
+    "expense_ratio": 2.42,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Dividend Yield Fund",
+    "inception_date": "2018-12-01 00:00:00",
+    "expense_ratio": 2.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Value Fund",
+    "inception_date": "2018-08-01 00:00:00",
+    "expense_ratio": 2.41,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Focused Fund",
+    "inception_date": "2017-11-01 00:00:00",
+    "expense_ratio": 2.52,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Infrastructure Fund",
+    "inception_date": "2008-03-01 00:00:00",
+    "expense_ratio": 2.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Manufacturing Fund",
+    "inception_date": "2024-10-01 00:00:00",
+    "expense_ratio": 2.26,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Banking & Financial Services Fund",
+    "inception_date": "2015-03-01 00:00:00",
+    "expense_ratio": 2.42,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Healthcare Fund",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 2.45,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF ELSS Tax Saver",
+    "inception_date": "1997-03-01 00:00:00",
+    "expense_ratio": 2.16,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Unit Linked Insurance Scheme",
+    "inception_date": "1989-06-01 00:00:00",
+    "expense_ratio": 2.37,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Aggressive Hybrid Fund",
+    "inception_date": "1991-01-01 00:00:00",
+    "expense_ratio": 2.49,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Balanced Advantage Fund",
+    "inception_date": "2021-11-01 00:00:00",
+    "expense_ratio": 2.31,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Equity Savings Fund",
+    "inception_date": "2011-03-01 00:00:00",
+    "expense_ratio": 2.31,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Conservative Hybrid Fund",
+    "inception_date": "1998-06-01 00:00:00",
+    "expense_ratio": 2.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Arbitrage Fund",
+    "inception_date": "2019-01-01 00:00:00",
+    "expense_ratio": 0.99,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Multi Asset Allocation Fund",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 2.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Overnight Fund",
+    "inception_date": "2019-07-01 00:00:00",
+    "expense_ratio": 0.2,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Liquid Fund",
+    "inception_date": "2002-03-01 00:00:00",
+    "expense_ratio": 0.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Ultra Short Duration Fund",
+    "inception_date": "2019-11-01 00:00:00",
+    "expense_ratio": 0.95,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Money Market Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 0.49,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Low Duration Fund",
+    "inception_date": "2003-06-01 00:00:00",
+    "expense_ratio": 0.96,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Medium to Long Duration Fund",
+    "inception_date": "1999-06-01 00:00:00",
+    "expense_ratio": 1.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Banking & PSU Fund",
+    "inception_date": "2007-05-01 00:00:00",
+    "expense_ratio": 0.78,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Short Duration Fund",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 1.32,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Gilt Fund",
+    "inception_date": "1999-12-01 00:00:00",
+    "expense_ratio": 1.48,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Children's Fund",
+    "inception_date": "2001-11-01 00:00:00",
+    "expense_ratio": 2.45,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF BSE Sensex ETF",
+    "inception_date": "2015-11-01 00:00:00",
+    "expense_ratio": 0.1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF NIFTY 50 ETF",
+    "inception_date": "2015-11-01 00:00:00",
+    "expense_ratio": 0.06,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF NIFTY 100 ETF",
+    "inception_date": "2016-03-01 00:00:00",
+    "expense_ratio": 0.28,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Nifty Midcap 100 ETF",
+    "inception_date": "2024-02-01 00:00:00",
+    "expense_ratio": 0.16,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF BSE Sensex Index Fund",
+    "inception_date": "2002-12-01 00:00:00",
+    "expense_ratio": 1.08,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF NIFTY 50 Index Fund",
+    "inception_date": "2002-12-01 00:00:00",
+    "expense_ratio": 1.01,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Nifty Next 50 Index Fund",
+    "inception_date": "2010-09-01 00:00:00",
+    "expense_ratio": 0.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Gold Exchange Traded Fund",
+    "inception_date": "Nov 0201",
+    "expense_ratio": 0.41,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Gold ETF Fund of Fund",
+    "inception_date": "2012-08-01 00:00:00",
+    "expense_ratio": 0.66,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "LIC MF Nifty 8-13 yr G-Sec ETF",
+    "inception_date": "2014-12-01 00:00:00",
+    "expense_ratio": 0.16,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Small Cap Fund",
+    "inception_date": "1996-10-01 00:00:00",
+    "expense_ratio": 1.48,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant ELSS Tax Saver Fund",
+    "inception_date": "2000-04-01 00:00:00",
+    "expense_ratio": 1.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Active Fund",
+    "inception_date": "2001-04-01 00:00:00",
+    "expense_ratio": 1.62,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Mid Cap Fund",
+    "inception_date": "2001-03-01 00:00:00",
+    "expense_ratio": 1.65,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Flexi Cap Fund",
+    "inception_date": "2008-10-01 00:00:00",
+    "expense_ratio": 1.68,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Large & Mid Cap Fund",
+    "inception_date": "2007-01-01 00:00:00",
+    "expense_ratio": 1.79,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Infrastructure Fund",
+    "inception_date": "2007-09-01 00:00:00",
+    "expense_ratio": 0.02,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Large Cap Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 1.84,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Absolute Fund",
+    "inception_date": "2001-04-01 00:00:00",
+    "expense_ratio": 1.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Quantamental Fund",
+    "inception_date": "2021-05-01 00:00:00",
+    "expense_ratio": 1.91,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Momentum Fund",
+    "inception_date": "2023-11-01 00:00:00",
+    "expense_ratio": 1.94,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Value Fund",
+    "inception_date": "2021-11-01 00:00:00",
+    "expense_ratio": 1.93,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Business Cycle Fund",
+    "inception_date": "2023-05-01 00:00:00",
+    "expense_ratio": 2,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Dynamic Asset Allocation Fund",
+    "inception_date": "2023-04-01 00:00:00",
+    "expense_ratio": 2.01,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Focused Fund",
+    "inception_date": "2008-08-01 00:00:00",
+    "expense_ratio": 2.06,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Manufacturing Fund",
+    "inception_date": "2023-08-01 00:00:00",
+    "expense_ratio": 2.12,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant PSU Fund",
+    "inception_date": "2024-02-01 00:00:00",
+    "expense_ratio": 2.17,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant BFSI Fund",
+    "inception_date": "2023-06-01 00:00:00",
+    "expense_ratio": 2.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Teck Fund",
+    "inception_date": "2023-09-01 00:00:00",
+    "expense_ratio": 2.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Healthcare Fund",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 2.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Commodities Fund",
+    "inception_date": "2023-12-01 00:00:00",
+    "expense_ratio": 2.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Consumption Fund",
+    "inception_date": "2024-01-01 00:00:00",
+    "expense_ratio": 2.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant ESG Equity Fund",
+    "inception_date": "2020-11-01 00:00:00",
+    "expense_ratio": 2.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Multi Asset Fund",
+    "inception_date": "2001-04-01 00:00:00",
+    "expense_ratio": 1.77,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Liquid Fund",
+    "inception_date": "2005-10-01 00:00:00",
+    "expense_ratio": 0.5,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Overnight Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Quant Gilt Fund",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 1.35,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Blue Chip Fund",
+    "inception_date": "2006-02-01 00:00:00",
+    "expense_ratio": 1.5,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI ESG Exclusionary Strategy Fund",
+    "inception_date": "1991-01-01 00:00:00",
+    "expense_ratio": 1.94,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Flexicap Fund",
+    "inception_date": "2005-09-01 00:00:00",
+    "expense_ratio": 1.68,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI MultiCap Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 1.69,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Dividend Yield Fund",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 1.78,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Contra Fund",
+    "inception_date": "1999-07-01 00:00:00",
+    "expense_ratio": 1.51,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Large & Midcap Fund",
+    "inception_date": "1993-02-01 00:00:00",
+    "expense_ratio": 1.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Focused Equity Fund",
+    "inception_date": "2004-09-01 00:00:00",
+    "expense_ratio": 1.57,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Midcap Fund",
+    "inception_date": "2005-03-01 00:00:00",
+    "expense_ratio": 1.67,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Global Fund",
+    "inception_date": "1994-09-01 00:00:00",
+    "expense_ratio": 1.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Small Cap Fund",
+    "inception_date": "2009-09-01 00:00:00",
+    "expense_ratio": 1.58,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Long Term Equity Fund",
+    "inception_date": "1993-03-01 00:00:00",
+    "expense_ratio": 1.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Healthcare Opportunities Fund",
+    "inception_date": "1999-07-01 00:00:00",
+    "expense_ratio": 1.94,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Banking & Financial Services Fund",
+    "inception_date": "2015-02-01 00:00:00",
+    "expense_ratio": 1.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI PSU Fund",
+    "inception_date": "2010-07-01 00:00:00",
+    "expense_ratio": 1.88,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Comma Fund",
+    "inception_date": "2005-08-01 00:00:00",
+    "expense_ratio": 2.51,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Infrastructure Fund",
+    "inception_date": "2007-07-01 00:00:00",
+    "expense_ratio": 1.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Consumption Opportunities Fund",
+    "inception_date": "1999-07-01 00:00:00",
+    "expense_ratio": 1.99,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Technology Opportunities Fund",
+    "inception_date": "1999-07-01 00:00:00",
+    "expense_ratio": 1.92,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Equity Minimum Variance Fund",
+    "inception_date": "2019-03-01 00:00:00",
+    "expense_ratio": 0.74,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI International Access - US Equity FoF",
+    "inception_date": "2021-03-01 00:00:00",
+    "expense_ratio": 1.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Energy Opportunities Fund",
+    "inception_date": "2024-02-01 00:00:00",
+    "expense_ratio": 1.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Automotive Opportunities Fund",
+    "inception_date": "2024-06-01 00:00:00",
+    "expense_ratio": 1.85,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Innovative Opportunities Fund",
+    "inception_date": "2024-08-01 00:00:00",
+    "expense_ratio": 1.79,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Quant Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 1.92,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Equity Hybrid Fund",
+    "inception_date": "1995-10-01 00:00:00",
+    "expense_ratio": 1.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Conservative Hybrid Fund",
+    "inception_date": "2001-04-01 00:00:00",
+    "expense_ratio": 1.54,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Multi Asset Allocation Fund",
+    "inception_date": "2018-05-01 00:00:00",
+    "expense_ratio": 1.43,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Children's Benefit Fund - Savings Plan",
+    "inception_date": "2002-02-01 00:00:00",
+    "expense_ratio": 1.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Equity Savings Fund",
+    "inception_date": "2015-05-01 00:00:00",
+    "expense_ratio": 1.43,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Arbitrage Opportunities Fund",
+    "inception_date": "2006-11-01 00:00:00",
+    "expense_ratio": 0.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Balanced Advantage Fund",
+    "inception_date": "2021-08-01 00:00:00",
+    "expense_ratio": 1.57,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Children\u2019s Benefit Fund \u2013 Investment Plan",
+    "inception_date": "2020-09-01 00:00:00",
+    "expense_ratio": 1.91,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Retirement Benefit Fund \u2013 Aggressive Plan",
+    "inception_date": "2021-02-01 00:00:00",
+    "expense_ratio": 1.95,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Retirement Benefit Fund \u2013 Aggressive Hybrid Plan",
+    "inception_date": "2021-02-01 00:00:00",
+    "expense_ratio": 2.1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Retirement Benefit Fund \u2013 Conservative Hybrid Plan",
+    "inception_date": "2021-02-01 00:00:00",
+    "expense_ratio": 1.66,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Retirement Benefit Fund \u2013 Conservative Plan",
+    "inception_date": "2021-02-01 00:00:00",
+    "expense_ratio": 1.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Gilt Fund",
+    "inception_date": "2000-12-01 00:00:00",
+    "expense_ratio": 0.94,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Income Fund",
+    "inception_date": "1998-11-01 00:00:00",
+    "expense_ratio": 1.47,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Dynamic Bond Fund",
+    "inception_date": "2004-02-01 00:00:00",
+    "expense_ratio": 1.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Corporate Bond Fund",
+    "inception_date": "2019-01-01 00:00:00",
+    "expense_ratio": 0.76,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Credit Risk Fund",
+    "inception_date": "2014-07-01 00:00:00",
+    "expense_ratio": 1.55,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Medium Duration Fund",
+    "inception_date": "2003-11-01 00:00:00",
+    "expense_ratio": 1.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Short Term Debt Fund",
+    "inception_date": "2007-07-01 00:00:00",
+    "expense_ratio": 0.85,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Constant Maturity Fund",
+    "inception_date": "2000-12-01 00:00:00",
+    "expense_ratio": 0.63,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Low Duration Fund",
+    "inception_date": "2007-07-01 00:00:00",
+    "expense_ratio": 0.93,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Savings fund",
+    "inception_date": "2004-07-01 00:00:00",
+    "expense_ratio": 0.67,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Banking & PSU Fund",
+    "inception_date": "2009-10-01 00:00:00",
+    "expense_ratio": NaN,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Liquid Fund",
+    "inception_date": "2003-11-01 00:00:00",
+    "expense_ratio": 0.31,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Magnum Ultra Short Duration Fund",
+    "inception_date": "1999-05-01 00:00:00",
+    "expense_ratio": 0.54,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Floating Rate Debt Fund",
+    "inception_date": "2020-10-01 00:00:00",
+    "expense_ratio": 0.41,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Long Duration Fund",
+    "inception_date": "2002-10-01 00:00:00",
+    "expense_ratio": 0.66,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "SBI Overnight Fund",
+    "inception_date": "2002-10-01 00:00:00",
+    "expense_ratio": 0.15,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM ELSS Tax Saver Fund",
+    "inception_date": "2008-03-01 00:00:00",
+    "expense_ratio": 2.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Flexicap Fund",
+    "inception_date": "2008-09-01 00:00:00",
+    "expense_ratio": 1.78,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Midcap Fund",
+    "inception_date": "2022-11-01 00:00:00",
+    "expense_ratio": 2.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Small Cap Fund",
+    "inception_date": "2024-06-01 00:00:00",
+    "expense_ratio": 2.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Large Cap Fund",
+    "inception_date": "1995-04-01 00:00:00",
+    "expense_ratio": 2.37,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Value Fund",
+    "inception_date": "1997-06-01 00:00:00",
+    "expense_ratio": 2.19,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Focused Fund",
+    "inception_date": "2008-03-01 00:00:00",
+    "expense_ratio": 2.37,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Arbitrage Fund",
+    "inception_date": "2006-07-01 00:00:00",
+    "expense_ratio": 1.06,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Aggressive Hybrid Fund",
+    "inception_date": "1995-04-01 00:00:00",
+    "expense_ratio": 2.24,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Overnight Fund",
+    "inception_date": "2019-12-01 00:00:00",
+    "expense_ratio": 0.15,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Liquid Fund",
+    "inception_date": "1997-12-01 00:00:00",
+    "expense_ratio": 0.26,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Short Duration Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 1.09,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Dynamic Bond Fund",
+    "inception_date": "2003-06-01 00:00:00",
+    "expense_ratio": 0.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Low Duration Fund",
+    "inception_date": "2006-09-01 00:00:00",
+    "expense_ratio": 0.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "JM Medium to Long Duration Fund",
+    "inception_date": "1995-04-01 00:00:00",
+    "expense_ratio": 1.05,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India ELSS Tax Saver Fund",
+    "inception_date": "2006-12-01 00:00:00",
+    "expense_ratio": 1.93,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Multicap Fund",
+    "inception_date": "2008-03-01 00:00:00",
+    "expense_ratio": 1.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Contra Fund",
+    "inception_date": "2007-04-01 00:00:00",
+    "expense_ratio": 1.65,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Largecap Fund",
+    "inception_date": "2009-08-01 00:00:00",
+    "expense_ratio": 2.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Focused Fund",
+    "inception_date": "2020-09-01 00:00:00",
+    "expense_ratio": 1.88,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Large & Mid Cap Fund",
+    "inception_date": "2007-08-01 00:00:00",
+    "expense_ratio": 1.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Midcap Fund",
+    "inception_date": "2007-04-01 00:00:00",
+    "expense_ratio": 1.81,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Smallcap Fund",
+    "inception_date": "2018-10-01 00:00:00",
+    "expense_ratio": 1.78,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Financial Services Fund",
+    "inception_date": "2008-07-01 00:00:00",
+    "expense_ratio": 2.15,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Infrastructure Fund",
+    "inception_date": "2007-11-01 00:00:00",
+    "expense_ratio": 2.13,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India PSU Equity Fund",
+    "inception_date": "2009-11-01 00:00:00",
+    "expense_ratio": 2.16,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India ESG Integration Strategy Fund",
+    "inception_date": "2021-03-01 00:00:00",
+    "expense_ratio": 2.43,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Flexi Cap Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 1.93,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Manufacturing Fund",
+    "inception_date": "2024-08-01 00:00:00",
+    "expense_ratio": 2.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Technology Fund",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 2.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Business Cycle Fund",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 2.38,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Arbitrage Fund",
+    "inception_date": "2007-04-01 00:00:00",
+    "expense_ratio": 1.06,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Balanced Advantage Fund",
+    "inception_date": "2007-10-01 00:00:00",
+    "expense_ratio": 2.14,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Aggressive Hybrid Fund",
+    "inception_date": "2018-06-01 00:00:00",
+    "expense_ratio": 2.34,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Equity Savings Fund",
+    "inception_date": "2019-03-01 00:00:00",
+    "expense_ratio": 2.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Multi Asset Allocation Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 1.87,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Liquid Fund",
+    "inception_date": "2006-11-01 00:00:00",
+    "expense_ratio": 0.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Overnight Fund",
+    "inception_date": "2020-01-01 00:00:00",
+    "expense_ratio": 0.12,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Low Duration Fund",
+    "inception_date": "2007-01-01 00:00:00",
+    "expense_ratio": 0.6,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Short Duration Fund",
+    "inception_date": "2007-03-01 00:00:00",
+    "expense_ratio": 1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Money Market Fund",
+    "inception_date": "2009-08-01 00:00:00",
+    "expense_ratio": 0.48,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Ultra Short Duration Fund",
+    "inception_date": "2010-12-01 00:00:00",
+    "expense_ratio": 0.74,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Medium Duration Fund",
+    "inception_date": "2021-07-01 00:00:00",
+    "expense_ratio": 1.15,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Credit Risk Fund",
+    "inception_date": "2014-09-01 00:00:00",
+    "expense_ratio": 1.45,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Gilt Fund",
+    "inception_date": "2008-02-01 00:00:00",
+    "expense_ratio": 1.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Corporate Bond Fund",
+    "inception_date": "2007-08-01 00:00:00",
+    "expense_ratio": 0.68,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Banking and PSU Fund",
+    "inception_date": "2012-12-01 00:00:00",
+    "expense_ratio": 0.63,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Nifty G-sec Jul 2027 Index Fund",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.29,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Nifty G-sec Sep 2032 Index Fund",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.29,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India-Invesco Global Consumer Trends Fund of Fund",
+    "inception_date": "2020-12-01 00:00:00",
+    "expense_ratio": 1.54,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "InvescoIndia-InvescoEQQQ NASDAQ-100 ETF Fund of Fund",
+    "inception_date": "2022-04-01 00:00:00",
+    "expense_ratio": 0.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "InvescoIndia-Invesco Pan European Equity Fund of fund",
+    "inception_date": "2014-01-01 00:00:00",
+    "expense_ratio": 0.95,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India-Invesco Global Equity Income Fund of Fund",
+    "inception_date": "2014-05-01 00:00:00",
+    "expense_ratio": 1.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Gold ETF Fund of Fund",
+    "inception_date": "2011-12-01 00:00:00",
+    "expense_ratio": 1.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India Gold Exchange Traded Fund",
+    "inception_date": "2010-03-01 00:00:00",
+    "expense_ratio": 0.55,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Invesco India NIFTY 50 Exchange Traded Fund",
+    "inception_date": "2011-06-01 00:00:00",
+    "expense_ratio": 0.1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Flexi Cap Fund",
+    "inception_date": "2018-07-01 00:00:00",
+    "expense_ratio": 2.29,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Large & Midcap Fund",
+    "inception_date": "2015-12-01 00:00:00",
+    "expense_ratio": 2.26,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Aggressive Hybrid Fund",
+    "inception_date": "2018-04-01 00:00:00",
+    "expense_ratio": 2.28,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi ELSS Tax Saver Fund",
+    "inception_date": "2015-12-01 00:00:00",
+    "expense_ratio": 2.29,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Liquid Fund",
+    "inception_date": "2010-02-01 00:00:00",
+    "expense_ratio": 0.2,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Nifty 50 Index Fund",
+    "inception_date": "2021-07-01 00:00:00",
+    "expense_ratio": 0.2,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi US Total Stock Market Fund of Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.06,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi NASDAQ 100 Fund of Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Nifty Next 50 Index Fund",
+    "inception_date": "2022-01-01 00:00:00",
+    "expense_ratio": 0.58,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Nifty Bank Index Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Nifty Midcap 150 Index Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Nifty India Manufacturing Index Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi ELSS Tax Saver\n Nifty 50 Index Fund",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi BSE Sensex Index Fund",
+    "inception_date": "2023-09-01 00:00:00",
+    "expense_ratio": 0.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Nifty IT Index Fund",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": 1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Nifty 500 Multicap 50:25:25 Index Fund",
+    "inception_date": "2024-08-01 00:00:00",
+    "expense_ratio": 0.99,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "Navi Nifty Small cap 250 Momentum Quality 100 Index Fund",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 1,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI LARGE CAP FUND",
+    "inception_date": "1986-10-01 00:00:00",
+    "expense_ratio": 1.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI MID CAP FUND",
+    "inception_date": "2004-04-01 00:00:00",
+    "expense_ratio": 1.76,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI SMALL CAP FUND",
+    "inception_date": "2020-12-01 00:00:00",
+    "expense_ratio": 1.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI LARGE & MID CAP FUND",
+    "inception_date": "2009-05-01 00:00:00",
+    "expense_ratio": 1.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI VALUE FUND",
+    "inception_date": "2005-07-01 00:00:00",
+    "expense_ratio": 1.82,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI ELSS TAX SAVER FUND",
+    "inception_date": "1999-12-01 00:00:00",
+    "expense_ratio": 1.9,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI FOCUSED FUND",
+    "inception_date": "2021-08-01 00:00:00",
+    "expense_ratio": 1.99,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI FLEXI CAP FUND",
+    "inception_date": "1992-05-01 00:00:00",
+    "expense_ratio": 1.67,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI INNOVATION FUND",
+    "inception_date": "2023-10-01 00:00:00",
+    "expense_ratio": 2.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI DIVIDEND YIELD FUND",
+    "inception_date": "2005-05-01 00:00:00",
+    "expense_ratio": 1.99,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI MNC FUND",
+    "inception_date": "1998-05-01 00:00:00",
+    "expense_ratio": 2.02,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI INDIA CONSUMER FUND",
+    "inception_date": "2007-08-01 00:00:00",
+    "expense_ratio": 2.45,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI INFRASTRUCTURE FUND",
+    "inception_date": "2004-04-01 00:00:00",
+    "expense_ratio": 2.17,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI BANKING & FINANCIAL SERVICES FUND",
+    "inception_date": "2004-04-01 00:00:00",
+    "expense_ratio": 2.19,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI HEALTHCARE FUND",
+    "inception_date": "1999-06-01 00:00:00",
+    "expense_ratio": 2.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI TRANSPORTATION & LOGISTICS FUND",
+    "inception_date": "2008-04-01 00:00:00",
+    "expense_ratio": 1.98,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI QUANT FUND",
+    "inception_date": "2025-01-01 00:00:00",
+    "expense_ratio": 2.07,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY 50 INDEX FUND",
+    "inception_date": "2000-03-01 00:00:00",
+    "expense_ratio": 0.25,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY NEXT 50 INDEX FUND",
+    "inception_date": "2018-06-01 00:00:00",
+    "expense_ratio": 0.8,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY 200 MOMENTUM 30 INDEX FUND",
+    "inception_date": "2021-03-01 00:00:00",
+    "expense_ratio": 0.92,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI BSE SENSEX INDEX FUND",
+    "inception_date": "2022-01-01 00:00:00",
+    "expense_ratio": 0.3,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY MIDCAP 150 QUALITY 50 INDEX FUND",
+    "inception_date": "2022-04-01 00:00:00",
+    "expense_ratio": 0.88,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI BSE LOW VOLATILITY INDEX FUND",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.91,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY 50 EQUAL WEIGHT INDEX FUND",
+    "inception_date": "2023-06-01 00:00:00",
+    "expense_ratio": 1.04,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY 500 VALUE 50 INDEX FUND",
+    "inception_date": "2023-05-01 00:00:00",
+    "expense_ratio": 1.03,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI BSE HOUSING INDEX FUND",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.99,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY PRIVATE BANK INDEX FUND",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 1.04,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY200 QUALITY 30 INDEX FUND",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 1.04,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY ALPHA LOW-VOLATILITY 30 INDEX FUND",
+    "inception_date": "2024-11-01 00:00:00",
+    "expense_ratio": 1.03,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY MIDCAP 150 INDEX FUND",
+    "inception_date": "2024-11-01 00:00:00",
+    "expense_ratio": 1.04,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY MIDSMALLCAP 400 MOMENTUM QUALITY 100 INDEX FUND",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 1.03,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY INDIA MANUFACTURING INDEX FUND",
+    "inception_date": "2025-02-01 00:00:00",
+    "expense_ratio": 1.04,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI BALANCED ADVANTAGE FUND",
+    "inception_date": "2023-08-01 00:00:00",
+    "expense_ratio": 1.97,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI MULTI ASSET ALLOCATION FUND",
+    "inception_date": "2008-11-01 00:00:00",
+    "expense_ratio": 1.77,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI AGGRESSIVE HYBRID FUND",
+    "inception_date": "1995-01-01 00:00:00",
+    "expense_ratio": 1.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI EQUITY SAVINGS FUND",
+    "inception_date": "2018-08-01 00:00:00",
+    "expense_ratio": 1.65,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI ARBITRAGE FUND",
+    "inception_date": "2006-06-01 00:00:00",
+    "expense_ratio": 0.74,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI CONSERVATIVE HYBRID FUND",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 1.81,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI CHILDREN\u2019S EQUITY FUND",
+    "inception_date": "2008-01-01 00:00:00",
+    "expense_ratio": 2.28,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI CHILDREN\u2019S HYBRID FUND(E",
+    "inception_date": "1993-07-01 00:00:00",
+    "expense_ratio": 1.75,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI RETIREMENT FUND",
+    "inception_date": "1994-12-01 00:00:00",
+    "expense_ratio": 1.67,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI UNIT LINKED INSURANCE PLAN",
+    "inception_date": "1971-10-01 00:00:00",
+    "expense_ratio": 1.65,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI OVERNIGHT FUND",
+    "inception_date": "2003-11-01 00:00:00",
+    "expense_ratio": 0.11,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI LIQUID FUND",
+    "inception_date": "2003-12-01 00:00:00",
+    "expense_ratio": 0.24,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI MONEY MARKET FUND",
+    "inception_date": "1997-04-01 00:00:00",
+    "expense_ratio": 0.23,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI ULTRA SHORT DURATION FUND",
+    "inception_date": "2003-08-01 00:00:00",
+    "expense_ratio": 0.92,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI LOW DURATION FUND",
+    "inception_date": "1999-07-01 00:00:00",
+    "expense_ratio": 0.46,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI SHORT DURATION FUND",
+    "inception_date": "2003-06-01 00:00:00",
+    "expense_ratio": 0.85,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI MEDIUM DURATION FUND",
+    "inception_date": "2015-03-01 00:00:00",
+    "expense_ratio": 1.49,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI MEDIUM TO LONG DURATION FUND",
+    "inception_date": "1998-05-01 00:00:00",
+    "expense_ratio": 1.61,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI FLOATER FUND",
+    "inception_date": "2018-10-01 00:00:00",
+    "expense_ratio": 0.81,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI BANKING & PSU FUND",
+    "inception_date": "2014-01-01 00:00:00",
+    "expense_ratio": 0.54,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI CORPORATE BOND FUND",
+    "inception_date": "2018-08-01 00:00:00",
+    "expense_ratio": 0.59,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI DYNAMIC BOND FUND",
+    "inception_date": "2010-06-01 00:00:00",
+    "expense_ratio": 1.53,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI CREDIT RISK FUND",
+    "inception_date": "2012-11-01 00:00:00",
+    "expense_ratio": 1.68,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI GILT FUND",
+    "inception_date": "2002-01-01 00:00:00",
+    "expense_ratio": 0.92,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI GILT FUND WITH 10 YEAR CONSTANT DURATION",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 0.7,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI CRISIL SDL MATURITY JUNE 2027 INDEX FUND",
+    "inception_date": "2023-01-01 00:00:00",
+    "expense_ratio": 0.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI CRISIL SDL MATURITY APRIL 2033 INDEX FUND",
+    "inception_date": "2022-12-01 00:00:00",
+    "expense_ratio": 0.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY SDL PLUS AAA PSU BOND APR 2026 75:25 INDEX FUND",
+    "inception_date": "2023-02-01 00:00:00",
+    "expense_ratio": 0.41,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "UTI NIFTY SDL PLUS AAA PSU BOND APR 2028 75:25 INDEX FUND",
+    "inception_date": "2023-03-01 00:00:00",
+    "expense_ratio": 0.4,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Flexi Cap Fund",
+    "inception_date": "1997-04-01 00:00:00",
+    "expense_ratio": 1.74,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Equity Opportunities Fund",
+    "inception_date": "2000-05-01 00:00:00",
+    "expense_ratio": 1.72,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP India T.I.G.E.R. Fund",
+    "inception_date": "2004-06-01 00:00:00",
+    "expense_ratio": 1.89,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Mid Cap Fund",
+    "inception_date": "2006-11-01 00:00:00",
+    "expense_ratio": 1.7,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP ELSS Tax Saver Fund",
+    "inception_date": "2007-01-01 00:00:00",
+    "expense_ratio": 0.0165,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Healthcare Fund",
+    "inception_date": "2018-11-01 00:00:00",
+    "expense_ratio": 0.0128,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Quant Fund",
+    "inception_date": "2019-06-01 00:00:00",
+    "expense_ratio": 0.0128,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP VALUE FUND",
+    "inception_date": "2020-12-01 00:00:00",
+    "expense_ratio": 0.0171,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Small Cap Fund",
+    "inception_date": "2007-06-01 00:00:00",
+    "expense_ratio": 0.0173,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Focus Fund",
+    "inception_date": "2010-06-01 00:00:00",
+    "expense_ratio": 0.0204,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Multicap Fund",
+    "inception_date": "2024-01-01 00:00:00",
+    "expense_ratio": 0.0203,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Business Cycle Fund",
+    "inception_date": "2024-12-01 00:00:00",
+    "expense_ratio": 0.0222,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Natural Resources and New Energy Fund",
+    "inception_date": "2008-04-01 00:00:00",
+    "expense_ratio": 0.0213,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP World Gold Fund of Fund",
+    "inception_date": "2007-09-01 00:00:00",
+    "expense_ratio": 0.0239,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP World Mining Fund of Fund",
+    "inception_date": "2009-12-01 00:00:00",
+    "expense_ratio": 0.0214,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Global Clean Energy Fund of Fund",
+    "inception_date": "2009-08-01 00:00:00",
+    "expense_ratio": 0.0209,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP US Flexible Equity Fund of Fund",
+    "inception_date": "2012-08-01 00:00:00",
+    "expense_ratio": 0.0236,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Income Plus Arbitrage Fund of Fund",
+    "inception_date": "2014-08-01 00:00:00",
+    "expense_ratio": 0.0099,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Global Innovation Fund of Fund",
+    "inception_date": "2022-02-01 00:00:00",
+    "expense_ratio": 0.0203,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Gold ETF Fund of Fund",
+    "inception_date": "2023-11-01 00:00:00",
+    "expense_ratio": 0.01,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP US Treasury Fund of Fund",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": 0.0026,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Dynamic Asset Allocation Fund",
+    "inception_date": "2014-02-01 00:00:00",
+    "expense_ratio": 0.0193,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Aggressive Hybrid Fund",
+    "inception_date": "1999-05-01 00:00:00",
+    "expense_ratio": 0.0175,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Equity Savings Fund",
+    "inception_date": "2016-03-01 00:00:00",
+    "expense_ratio": 0.0129,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty 50 Equal Weight Index Fund",
+    "inception_date": "2017-10-01 00:00:00",
+    "expense_ratio": 0.0092,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty 50 Equal Weight ETF",
+    "inception_date": "2021-11-01 00:00:00",
+    "expense_ratio": 0.2,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP NIFTY 50 ETF",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.0007,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP NIFTY MIDCAP 150 QUALITY 50 ETF",
+    "inception_date": "2021-12-01 00:00:00",
+    "expense_ratio": 0.003,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Silver ETF",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 0.004,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Gold ETF",
+    "inception_date": "2023-04-01 00:00:00",
+    "expense_ratio": 0.0045,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Bank ETF",
+    "inception_date": "2023-01-01 00:00:00",
+    "expense_ratio": 0.0015,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty IT ETF",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 0.002,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty PSU Bank ETF",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 0.0015,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Private Bank ETF",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 0.0016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP BSE Sensex ETF",
+    "inception_date": "2023-07-01 00:00:00",
+    "expense_ratio": 0.22,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Healthcare ETF",
+    "inception_date": "2024-02-01 00:00:00",
+    "expense_ratio": 0.002,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP NIFTY 1D Rate Liquid ETF",
+    "inception_date": "2018-03-01 00:00:00",
+    "expense_ratio": 0.003,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP BSE Liquid Rate ETF",
+    "inception_date": "2024-03-01 00:00:00",
+    "expense_ratio": 0.003,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Top 10 Equal Weight ETF",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.0015,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP BSE Sensex Next 30 ETF",
+    "inception_date": "2025-01-01 00:00:00",
+    "expense_ratio": 0.0015,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Top 10 Equal Weight Index Fund",
+    "inception_date": "2024-09-01 00:00:00",
+    "expense_ratio": 0.0094,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Midcap 150 Quality 50 Index Fund",
+    "inception_date": "2022-08-01 00:00:00",
+    "expense_ratio": 0.0086,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Next 50 Index Fund",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 0.0061,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty 50 Index Fund",
+    "inception_date": "2019-02-01 00:00:00",
+    "expense_ratio": 0.0032,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Bank Index Fund",
+    "inception_date": "2024-05-01 00:00:00",
+    "expense_ratio": 0.0085,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP BSE SENSEX Next 30 Index Fund",
+    "inception_date": "2025-01-01 00:00:00",
+    "expense_ratio": 0.0083,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Private Bank Index Fund",
+    "inception_date": "2025-03-01 00:00:00",
+    "expense_ratio": 0.01,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Arbitrage Fund",
+    "inception_date": "2018-01-01 00:00:00",
+    "expense_ratio": 0.0099,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Regular Savings Fund",
+    "inception_date": "2004-06-01 00:00:00",
+    "expense_ratio": 0.0111,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Liquidity Fund",
+    "inception_date": "1998-03-01 00:00:00",
+    "expense_ratio": 0.002,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Ultra Short Fund",
+    "inception_date": "2006-07-01 00:00:00",
+    "expense_ratio": 0.0101,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Floater Fund",
+    "inception_date": "2021-03-01 00:00:00",
+    "expense_ratio": 0,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund",
+    "inception_date": "2022-03-01 00:00:00",
+    "expense_ratio": 0.0035,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP CRISIL SDL Plus G-Sec Apr 2033 50:50 Index Fund",
+    "inception_date": "2023-01-01 00:00:00",
+    "expense_ratio": 0.53,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund",
+    "inception_date": "2023-02-01 00:00:00",
+    "expense_ratio": 0.0032,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Nifty Smallcap250 Quality 50 Index Fund",
+    "inception_date": "2023-12-01 00:00:00",
+    "expense_ratio": 0.0026,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Savings Fund",
+    "inception_date": "1999-09-01 00:00:00",
+    "expense_ratio": 0.0039,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Gilt Fund",
+    "inception_date": "1999-09-01 00:00:00",
+    "expense_ratio": 0.0115,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Short Term Fund",
+    "inception_date": "2002-09-01 00:00:00",
+    "expense_ratio": 0.0095,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Banking & PSU Debt Fund",
+    "inception_date": "2013-09-01 00:00:00",
+    "expense_ratio": 0.0059,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Credit Risk Fund",
+    "inception_date": "2003-05-01 00:00:00",
+    "expense_ratio": 0.0113,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Strategic Bond Fund",
+    "inception_date": "2007-05-01 00:00:00",
+    "expense_ratio": 0.012,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Bond Fund",
+    "inception_date": "1997-04-01 00:00:00",
+    "expense_ratio": 0.0075,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Low Duration Fund",
+    "inception_date": "2015-03-01 00:00:00",
+    "expense_ratio": 0.0057,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP 10Y G-Sec Fund",
+    "inception_date": "2014-09-01 00:00:00",
+    "expense_ratio": 0.0051,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Corporate Bond Fund",
+    "inception_date": "2018-09-01 00:00:00",
+    "expense_ratio": 0.0055,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Overnight Fund",
+    "inception_date": "2019-01-01 00:00:00",
+    "expense_ratio": 0.13,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Multi Asset Allocation Fund",
+    "inception_date": "2023-09-01 00:00:00",
+    "expense_ratio": 0.016,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  },
+  {
+    "fund_name": "DSP Banking & Financial Services Fund",
+    "inception_date": "2023-12-01 00:00:00",
+    "expense_ratio": 0.0217,
+    "nav": {},
+    "returns": {},
+    "source_sheet": "Sheet1"
+  }
+]
